@@ -1,0 +1,4 @@
+T,0900,1030,14403 CIS152 Data Structures,AMDataStructureStudents.txt,
+W,1130,1700,11111 CIS171 JAVA I,AMJavaIStudents.txt,
+R,1300,1930,14781 CIS152 Data Structures,PMDataStructureStudents.txt,
+F,1600,1839,22222 CIS171 JAVA I,PMJavaIStudents.txt,
